@@ -144,7 +144,7 @@
 
   .lruby {
     display: flex;
-    justify-content:center;
+    justify-content: center;
     gap: 20px;
     list-style-type: none;
     font-family: "Inter", sans-serif;
