@@ -238,10 +238,10 @@
     line-height: 20px;
     letter-spacing: 0;
     text-align: left;
-    list-style-type: none;
     display: flex;
+    list-style-type: none;
     row-gap: 1px;
-    justify-content: center;
+    float: right;
     gap: 20px;
     padding-left: 0;
     padding-bottom: 22px;
