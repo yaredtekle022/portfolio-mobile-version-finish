@@ -406,4 +406,75 @@
     margin-left: -20%;
     text-align: center;
   }
+
+  .form {
+    height: 844px;
+    width: 375px;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .form h3 {
+    font-size: 34px;
+    text-align: center;
+    line-height: 44px;
+    color: #172b4d;
+    font-family: "Inter", sans-serif;
+    height: 216px;
+    margin: 120px auto 58px;
+    align-items: center;
+  }
+
+  .form ul {
+    list-style: none;
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+
+  .form ul li input {
+    width: 327px;
+    height: 48px;
+    margin-bottom: 24px;
+    border: none;
+    border-bottom: 1px solid #dbd8d7;
+  }
+
+  .form textarea {
+    width: 327px;
+    height: 114px;
+  }
+
+  .form button {
+    width: 131px;
+    height: 48px;
+    color: #fff;
+    background: #ff6b00;
+    border: none;
+    margin: 21px auto 1px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  footer hr {
+    background: #dfe1e6;
+  }
+
+  .list2 {
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    padding-left: 90px;
+  }
+
+  .list2 li a {
+    width: 18px;
+    height: 20px;
+  }
+
+  form > button:hover {
+    cursor: pointer;
+    background-color: #fff5e1;
+    color: #f55800;
+  }
 }

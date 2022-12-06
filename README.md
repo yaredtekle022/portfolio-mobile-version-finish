@@ -59,7 +59,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Finishing Mobile Version Portfolio] <a name="about-project"></a>
 
-> Added work section and about me section
+> Added work section, about me section and contact form
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -100,7 +100,7 @@ Example command:
 
 To clone this repo run this command
 
-git clone https://github.com/yaredtekle022/portfolio-mobile-version
+git clone https://github.com/yaredtekle022/portfolio-mobile-version-finish
 
 <!--
 Example commands:
