@@ -471,4 +471,10 @@
     width: 18px;
     height: 20px;
   }
+
+  form > button:hover {
+    cursor: pointer;
+    background-color: #fff5e1;
+    color: #f55800;
+  }
 }
